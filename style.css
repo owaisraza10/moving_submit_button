@@ -1,0 +1,13 @@
+#validator-output .valid {
+    color: green;
+}
+#validator-output .invalid {
+    color: red;
+}
+.container {
+    justify-content: center;
+   
+  }
+.row{
+    width: 50%;
+}
